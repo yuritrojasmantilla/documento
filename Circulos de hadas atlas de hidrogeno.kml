@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno" id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="field_1" type="int"></SimpleField>
+	<SimpleField name="CIRCULO DE HADA" type="string"></SimpleField>
+	<SimpleField name="Coordenada X" type="float"></SimpleField>
+	<SimpleField name="Coordena Y" type="float"></SimpleField>
+	<SimpleField name="AREA" type="float"></SimpleField>
+	<SimpleField name="PERIMETRO" type="float"></SimpleField>
+	<SimpleField name="RADIO MENOR" type="float"></SimpleField>
+	<SimpleField name="RADIO MAYOR" type="float"></SimpleField>
+</Schema>
+<Folder><name>puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno</name>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.1">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="field_1">1</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-7c</SimpleData>
+		<SimpleData name="Coordenada X">5090083.374</SimpleData>
+		<SimpleData name="Coordena Y">2867568.236</SimpleData>
+		<SimpleData name="PERIMETRO">348.311</SimpleData>
+		<SimpleData name="RADIO MENOR">50.817</SimpleData>
+		<SimpleData name="RADIO MAYOR">58.659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1726287055397,11.8494781500042</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.2">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-3b</SimpleData>
+		<SimpleData name="Coordenada X">5090374.823</SimpleData>
+		<SimpleData name="Coordena Y">2867614.615</SimpleData>
+		<SimpleData name="AREA">5195.296</SimpleData>
+		<SimpleData name="PERIMETRO">259.153</SimpleData>
+		<SimpleData name="RADIO MENOR">36.208</SimpleData>
+		<SimpleData name="RADIO MAYOR">45.673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1699508192487,11.8498898703865</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.3">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-4b</SimpleData>
+		<SimpleData name="Coordenada X">5090791.602</SimpleData>
+		<SimpleData name="Coordena Y">2867298.425</SimpleData>
+		<SimpleData name="AREA">5773.463</SimpleData>
+		<SimpleData name="PERIMETRO">280.505</SimpleData>
+		<SimpleData name="RADIO MENOR">36.971</SimpleData>
+		<SimpleData name="RADIO MAYOR">49.708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1661318656987,11.8470183285646</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.4">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-6a</SimpleData>
+		<SimpleData name="Coordenada X">5090278.29</SimpleData>
+		<SimpleData name="Coordena Y">2865293.897</SimpleData>
+		<SimpleData name="AREA">7594.306</SimpleData>
+		<SimpleData name="PERIMETRO">331.383</SimpleData>
+		<SimpleData name="RADIO MENOR">38.844</SimpleData>
+		<SimpleData name="RADIO MAYOR">62.232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1709006444456,11.8288988878936</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.5">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-8c</SimpleData>
+		<SimpleData name="Coordenada X">5090573.39</SimpleData>
+		<SimpleData name="Coordena Y">2865762.01</SimpleData>
+		<SimpleData name="AREA">5297.685</SimpleData>
+		<SimpleData name="PERIMETRO">286.908</SimpleData>
+		<SimpleData name="RADIO MENOR">33.005</SimpleData>
+		<SimpleData name="RADIO MAYOR">51.092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1681779026634,11.8331255790142</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.6">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-5b</SimpleData>
+		<SimpleData name="Coordenada X">5091964.033</SimpleData>
+		<SimpleData name="Coordena Y">2866977.792</SimpleData>
+		<SimpleData name="AREA">5708.957</SimpleData>
+		<SimpleData name="PERIMETRO">271.222</SimpleData>
+		<SimpleData name="RADIO MENOR">37.711</SimpleData>
+		<SimpleData name="RADIO MAYOR">48.188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1553734915732,11.8440859487871</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.7">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-8b</SimpleData>
+		<SimpleData name="Coordenada X">5093404.177</SimpleData>
+		<SimpleData name="Coordena Y">2867199.106</SimpleData>
+		<SimpleData name="AREA">6374.076</SimpleData>
+		<SimpleData name="PERIMETRO">293.132</SimpleData>
+		<SimpleData name="RADIO MENOR">38.989</SimpleData>
+		<SimpleData name="RADIO MAYOR">52.039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1421415388457,11.8460482450956</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.8">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-6b</SimpleData>
+		<SimpleData name="Coordenada X">5093450.157</SimpleData>
+		<SimpleData name="Coordena Y">2866763.885</SimpleData>
+		<SimpleData name="AREA">6157.287</SimpleData>
+		<SimpleData name="PERIMETRO">292.225</SimpleData>
+		<SimpleData name="RADIO MENOR">39.842</SimpleData>
+		<SimpleData name="RADIO MAYOR">49.192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.141731564308,11.8421099197824</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.9">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-7b</SimpleData>
+		<SimpleData name="Coordenada X">5093446.065</SimpleData>
+		<SimpleData name="Coordena Y">2866577.672</SimpleData>
+		<SimpleData name="AREA">5736.134</SimpleData>
+		<SimpleData name="PERIMETRO">287.457</SimpleData>
+		<SimpleData name="RADIO MENOR">35.434</SimpleData>
+		<SimpleData name="RADIO MAYOR">51.529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.141774399929,11.8404255344635</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.10">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-7a</SimpleData>
+		<SimpleData name="Coordenada X">5093897.363</SimpleData>
+		<SimpleData name="Coordena Y">2866289.968</SimpleData>
+		<SimpleData name="AREA">4739.637</SimpleData>
+		<SimpleData name="PERIMETRO">254.162</SimpleData>
+		<SimpleData name="RADIO MENOR">35.199</SimpleData>
+		<SimpleData name="RADIO MAYOR">42.861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.137638083916,11.8378103627129</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.11">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-8a</SimpleData>
+		<SimpleData name="Coordenada X">5093991.911</SimpleData>
+		<SimpleData name="Coordena Y">2866265.357</SimpleData>
+		<SimpleData name="AREA">1967.545</SimpleData>
+		<SimpleData name="PERIMETRO">184.512</SimpleData>
+		<SimpleData name="RADIO MENOR">14.825</SimpleData>
+		<SimpleData name="RADIO MAYOR">42.245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1367705139126,11.8375850873635</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.12">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-13b</SimpleData>
+		<SimpleData name="Coordenada X">5094527.296</SimpleData>
+		<SimpleData name="Coordena Y">2865886.666</SimpleData>
+		<SimpleData name="AREA">8329.164</SimpleData>
+		<SimpleData name="PERIMETRO">344.68</SimpleData>
+		<SimpleData name="RADIO MENOR">42.062</SimpleData>
+		<SimpleData name="RADIO MAYOR">63.032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1318646956882,11.8341444108607</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.13">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-10c</SimpleData>
+		<SimpleData name="Coordenada X">5094866.113</SimpleData>
+		<SimpleData name="Coordena Y">2866400.096</SimpleData>
+		<SimpleData name="AREA">4570.421</SimpleData>
+		<SimpleData name="PERIMETRO">252.649</SimpleData>
+		<SimpleData name="RADIO MENOR">32.26</SimpleData>
+		<SimpleData name="RADIO MAYOR">45.096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1287385558404,11.8387793875299</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.14">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-11b</SimpleData>
+		<SimpleData name="Coordenada X">5095314.555</SimpleData>
+		<SimpleData name="Coordena Y">2866730.956</SimpleData>
+		<SimpleData name="AREA">8448.853</SimpleData>
+		<SimpleData name="PERIMETRO">338.567</SimpleData>
+		<SimpleData name="RADIO MENOR">46.434</SimpleData>
+		<SimpleData name="RADIO MAYOR">57.918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1246108215394,11.841759676203</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.15">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-11c</SimpleData>
+		<SimpleData name="Coordenada X">5094043.739</SimpleData>
+		<SimpleData name="Coordena Y">2865121.294</SimpleData>
+		<SimpleData name="AREA">2442.595</SimpleData>
+		<SimpleData name="PERIMETRO">202.496</SimpleData>
+		<SimpleData name="RADIO MENOR">22.843</SimpleData>
+		<SimpleData name="RADIO MAYOR">34.037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1363270356601,11.827234352142</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.16">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-14b</SimpleData>
+		<SimpleData name="Coordenada X">5094086.147</SimpleData>
+		<SimpleData name="Coordena Y">2865092.267</SimpleData>
+		<SimpleData name="AREA">2035.975</SimpleData>
+		<SimpleData name="PERIMETRO">171.824</SimpleData>
+		<SimpleData name="RADIO MENOR">20.339</SimpleData>
+		<SimpleData name="RADIO MAYOR">31.863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1359384266499,11.8269705858985</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.17">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="field_1">2</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-40b</SimpleData>
+		<SimpleData name="Coordenada X">5099330.348</SimpleData>
+		<SimpleData name="Coordena Y">2882354.502</SimpleData>
+		<SimpleData name="AREA">11612.441</SimpleData>
+		<SimpleData name="PERIMETRO">437.147</SimpleData>
+		<SimpleData name="RADIO MENOR">32.739</SimpleData>
+		<SimpleData name="RADIO MAYOR">112.904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0872602969706,11.9829725482086</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.18">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-39b</SimpleData>
+		<SimpleData name="Coordenada X">5099347.436</SimpleData>
+		<SimpleData name="Coordena Y">2882581.329</SimpleData>
+		<SimpleData name="AREA">10130.107</SimpleData>
+		<SimpleData name="PERIMETRO">368.555</SimpleData>
+		<SimpleData name="RADIO MENOR">48.962</SimpleData>
+		<SimpleData name="RADIO MAYOR">65.857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0870963949126,11.9850238825982</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.19">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-28c</SimpleData>
+		<SimpleData name="Coordenada X">5099507.656</SimpleData>
+		<SimpleData name="Coordena Y">2882946.516</SimpleData>
+		<SimpleData name="AREA">589.213</SimpleData>
+		<SimpleData name="PERIMETRO">88.151</SimpleData>
+		<SimpleData name="RADIO MENOR">12.3</SimpleData>
+		<SimpleData name="RADIO MAYOR">15.248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0856131420912,11.9883225122393</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.20">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-67a</SimpleData>
+		<SimpleData name="Coordenada X">5099471.7</SimpleData>
+		<SimpleData name="Coordena Y">2882983.745</SimpleData>
+		<SimpleData name="AREA">338.059</SimpleData>
+		<SimpleData name="PERIMETRO">67.383</SimpleData>
+		<SimpleData name="RADIO MENOR">8.961</SimpleData>
+		<SimpleData name="RADIO MAYOR">12.008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0859423827003,11.9886603584944</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.21">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-65a</SimpleData>
+		<SimpleData name="Coordenada X">5099786.252</SimpleData>
+		<SimpleData name="Coordena Y">2882950.742</SimpleData>
+		<SimpleData name="AREA">2037.124</SimpleData>
+		<SimpleData name="PERIMETRO">168.121</SimpleData>
+		<SimpleData name="RADIO MENOR">19.49</SimpleData>
+		<SimpleData name="RADIO MAYOR">33.27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0830531925609,11.98835237359</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.22">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-66a</SimpleData>
+		<SimpleData name="Coordenada X">5099963.781</SimpleData>
+		<SimpleData name="Coordena Y">2883024.425</SimpleData>
+		<SimpleData name="AREA">3800.79</SimpleData>
+		<SimpleData name="PERIMETRO">229.2</SimpleData>
+		<SimpleData name="RADIO MENOR">30.195</SimpleData>
+		<SimpleData name="RADIO MAYOR">40.067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0814197508463,11.9890135550348</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.23">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-69a</SimpleData>
+		<SimpleData name="Coordenada X">5100022.027</SimpleData>
+		<SimpleData name="Coordena Y">2883112.195</SimpleData>
+		<SimpleData name="AREA">2839.481</SimpleData>
+		<SimpleData name="PERIMETRO">194.492</SimpleData>
+		<SimpleData name="RADIO MENOR">24.512</SimpleData>
+		<SimpleData name="RADIO MAYOR">36.873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0808818812728,11.9898057533087</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.24">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-64a</SimpleData>
+		<SimpleData name="Coordenada X">5099733.631</SimpleData>
+		<SimpleData name="Coordena Y">2883110.691</SimpleData>
+		<SimpleData name="AREA">5081.968</SimpleData>
+		<SimpleData name="PERIMETRO">265.909</SimpleData>
+		<SimpleData name="RADIO MENOR">31.04</SimpleData>
+		<SimpleData name="RADIO MAYOR">52.115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0835318058402,11.9898008302323</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.25">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-29c</SimpleData>
+		<SimpleData name="Coordenada X">5098896.683</SimpleData>
+		<SimpleData name="Coordena Y">2882946.637</SimpleData>
+		<SimpleData name="AREA">3203.724</SimpleData>
+		<SimpleData name="PERIMETRO">207.98</SimpleData>
+		<SimpleData name="RADIO MENOR">25.418</SimpleData>
+		<SimpleData name="RADIO MAYOR">40.12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0912269413587,11.9883418728153</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.26">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-30c</SimpleData>
+		<SimpleData name="Coordenada X">5098817.391</SimpleData>
+		<SimpleData name="Coordena Y">2883137.584</SimpleData>
+		<SimpleData name="AREA">4805.026</SimpleData>
+		<SimpleData name="PERIMETRO">252.687</SimpleData>
+		<SimpleData name="RADIO MENOR">33.658</SimpleData>
+		<SimpleData name="RADIO MAYOR">45.442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0919497241562,11.990071517037</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.27">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-38b</SimpleData>
+		<SimpleData name="Coordenada X">5098226.11</SimpleData>
+		<SimpleData name="Coordena Y">2882820.771</SimpleData>
+		<SimpleData name="AREA">12524.188</SimpleData>
+		<SimpleData name="PERIMETRO">406.053</SimpleData>
+		<SimpleData name="RADIO MENOR">55.603</SimpleData>
+		<SimpleData name="RADIO MAYOR">71.697</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0973921619383,11.9872232218257</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.28">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-68a</SimpleData>
+		<SimpleData name="Coordenada X">5099277.598</SimpleData>
+		<SimpleData name="Coordena Y">2883433.537</SimpleData>
+		<SimpleData name="AREA">2294.642</SimpleData>
+		<SimpleData name="PERIMETRO">176.082</SimpleData>
+		<SimpleData name="RADIO MENOR">21.778</SimpleData>
+		<SimpleData name="RADIO MAYOR">33.539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0877121791187,11.9927349268479</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.29">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-32c</SimpleData>
+		<SimpleData name="Coordenada X">5098290.891</SimpleData>
+		<SimpleData name="Coordena Y">2883511.195</SimpleData>
+		<SimpleData name="AREA">467.484</SimpleData>
+		<SimpleData name="PERIMETRO">78.82</SimpleData>
+		<SimpleData name="RADIO MENOR">10.197</SimpleData>
+		<SimpleData name="RADIO MAYOR">14.593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0967761581631,11.9934667979131</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.30">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-71a</SimpleData>
+		<SimpleData name="Coordenada X">5097750.919</SimpleData>
+		<SimpleData name="Coordena Y">2883392.059</SimpleData>
+		<SimpleData name="AREA">3014.903</SimpleData>
+		<SimpleData name="PERIMETRO">198.324</SimpleData>
+		<SimpleData name="RADIO MENOR">28.916</SimpleData>
+		<SimpleData name="RADIO MAYOR">33.188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1017412579607,11.9924050645861</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.31">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-33c</SimpleData>
+		<SimpleData name="Coordenada X">5098743.74</SimpleData>
+		<SimpleData name="Coordena Y">2883963.884</SimpleData>
+		<SimpleData name="AREA">3087.126</SimpleData>
+		<SimpleData name="PERIMETRO">201.674</SimpleData>
+		<SimpleData name="RADIO MENOR">27.751</SimpleData>
+		<SimpleData name="RADIO MAYOR">35.41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0926014677955,11.9975483119386</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.32">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-43b</SimpleData>
+		<SimpleData name="Coordenada X">5098175.874</SimpleData>
+		<SimpleData name="Coordena Y">2884207.724</SimpleData>
+		<SimpleData name="AREA">6876.26</SimpleData>
+		<SimpleData name="PERIMETRO">303.282</SimpleData>
+		<SimpleData name="RADIO MENOR">39.562</SimpleData>
+		<SimpleData name="RADIO MAYOR">55.325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0978120429116,11.9997709227742</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.33">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-72a</SimpleData>
+		<SimpleData name="Coordenada X">5101086.191</SimpleData>
+		<SimpleData name="Coordena Y">2883805.635</SimpleData>
+		<SimpleData name="AREA">1135.492</SimpleData>
+		<SimpleData name="PERIMETRO">121.485</SimpleData>
+		<SimpleData name="RADIO MENOR">17.141</SimpleData>
+		<SimpleData name="RADIO MAYOR">21.086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0710825387709,11.9960462310607</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.34">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-66b</SimpleData>
+		<SimpleData name="Coordenada X">5100618.951</SimpleData>
+		<SimpleData name="Coordena Y">2885059.836</SimpleData>
+		<SimpleData name="AREA">6792.978</SimpleData>
+		<SimpleData name="PERIMETRO">302.653</SimpleData>
+		<SimpleData name="RADIO MENOR">38.221</SimpleData>
+		<SimpleData name="RADIO MAYOR">56.573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0753371065675,12.0074057189871</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.35">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-65b</SimpleData>
+		<SimpleData name="Coordenada X">5100656.201</SimpleData>
+		<SimpleData name="Coordena Y">2885187.488</SimpleData>
+		<SimpleData name="AREA">4730.038</SimpleData>
+		<SimpleData name="PERIMETRO">248.708</SimpleData>
+		<SimpleData name="RADIO MENOR">34.057</SimpleData>
+		<SimpleData name="RADIO MAYOR">44.209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0749908794391,12.0085593038374</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.36">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-62b</SimpleData>
+		<SimpleData name="Coordenada X">5100434.515</SimpleData>
+		<SimpleData name="Coordena Y">2885756.427</SimpleData>
+		<SimpleData name="AREA">3954.476</SimpleData>
+		<SimpleData name="PERIMETRO">227.334</SimpleData>
+		<SimpleData name="RADIO MENOR">30.517</SimpleData>
+		<SimpleData name="RADIO MAYOR">41.247</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0770104140713,12.0137125519897</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.37">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-38c</SimpleData>
+		<SimpleData name="Coordenada X">5101298.146</SimpleData>
+		<SimpleData name="Coordena Y">2885780.89</SimpleData>
+		<SimpleData name="AREA">2767.322</SimpleData>
+		<SimpleData name="PERIMETRO">194.99</SimpleData>
+		<SimpleData name="RADIO MENOR">23.683</SimpleData>
+		<SimpleData name="RADIO MAYOR">37.194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0690736457418,12.0139075294548</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.38">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-74a</SimpleData>
+		<SimpleData name="Coordenada X">5098462.483</SimpleData>
+		<SimpleData name="Coordena Y">2885897.103</SimpleData>
+		<SimpleData name="AREA">6373.306</SimpleData>
+		<SimpleData name="PERIMETRO">294.129</SimpleData>
+		<SimpleData name="RADIO MENOR">36.288</SimpleData>
+		<SimpleData name="RADIO MAYOR">55.905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0951274701848,12.0150443200911</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.39">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-75a</SimpleData>
+		<SimpleData name="Coordenada X">5098474.866</SimpleData>
+		<SimpleData name="Coordena Y">2885964.672</SimpleData>
+		<SimpleData name="AREA">3597.102</SimpleData>
+		<SimpleData name="PERIMETRO">226.964</SimpleData>
+		<SimpleData name="RADIO MENOR">25.055</SimpleData>
+		<SimpleData name="RADIO MAYOR">45.699</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0950116382742,12.0156551716043</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.40">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-76a</SimpleData>
+		<SimpleData name="Coordenada X">5097337.494</SimpleData>
+		<SimpleData name="Coordena Y">2886226.792</SimpleData>
+		<SimpleData name="AREA">5442.857</SimpleData>
+		<SimpleData name="PERIMETRO">273.785</SimpleData>
+		<SimpleData name="RADIO MENOR">34.17</SimpleData>
+		<SimpleData name="RADIO MAYOR">50.703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1054554103162,12.0180599175973</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.41">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-77a</SimpleData>
+		<SimpleData name="Coordenada X">5097286.141</SimpleData>
+		<SimpleData name="Coordena Y">2886273.73</SimpleData>
+		<SimpleData name="AREA">2096.818</SimpleData>
+		<SimpleData name="PERIMETRO">167.748</SimpleData>
+		<SimpleData name="RADIO MENOR">21.94</SimpleData>
+		<SimpleData name="RADIO MAYOR">30.421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1059259094344,12.0184860233143</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.42">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-64b</SimpleData>
+		<SimpleData name="Coordenada X">5100469.355</SimpleData>
+		<SimpleData name="Coordena Y">2888095.964</SimpleData>
+		<SimpleData name="AREA">2208.687</SimpleData>
+		<SimpleData name="PERIMETRO">168.624</SimpleData>
+		<SimpleData name="RADIO MENOR">25.036</SimpleData>
+		<SimpleData name="RADIO MAYOR">28.081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0766180800317,12.0348745007061</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.43">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-68b</SimpleData>
+		<SimpleData name="Coordenada X">5104552.824</SimpleData>
+		<SimpleData name="Coordena Y">2886786.714</SimpleData>
+		<SimpleData name="AREA">8061.135</SimpleData>
+		<SimpleData name="PERIMETRO">327.002</SimpleData>
+		<SimpleData name="RADIO MENOR">44.823</SimpleData>
+		<SimpleData name="RADIO MAYOR">57.246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0391338896556,12.0229047505059</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.44">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-67b</SimpleData>
+		<SimpleData name="Coordenada X">5103723.783</SimpleData>
+		<SimpleData name="Coordena Y">2886904.913</SimpleData>
+		<SimpleData name="AREA">7766.924</SimpleData>
+		<SimpleData name="PERIMETRO">321.012</SimpleData>
+		<SimpleData name="RADIO MENOR">41.924</SimpleData>
+		<SimpleData name="RADIO MAYOR">58.971</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0467484743382,12.0240000428142</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.45">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="field_1">4</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-25b</SimpleData>
+		<SimpleData name="Coordenada X">5110565.291</SimpleData>
+		<SimpleData name="Coordena Y">2876544.63</SimpleData>
+		<SimpleData name="AREA">4590.158</SimpleData>
+		<SimpleData name="PERIMETRO">255.455</SimpleData>
+		<SimpleData name="RADIO MENOR">27.603</SimpleData>
+		<SimpleData name="RADIO MAYOR">52.932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9842300314382,11.9300635758061</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.46">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-24b</SimpleData>
+		<SimpleData name="Coordenada X">5110683.089</SimpleData>
+		<SimpleData name="Coordena Y">2876577.495</SimpleData>
+		<SimpleData name="AREA">22109.874</SimpleData>
+		<SimpleData name="PERIMETRO">543.26</SimpleData>
+		<SimpleData name="RADIO MENOR">73.71</SimpleData>
+		<SimpleData name="RADIO MAYOR">95.479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9831468255416,11.9303569525103</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.47">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-26b</SimpleData>
+		<SimpleData name="Coordenada X">5110785.147</SimpleData>
+		<SimpleData name="Coordena Y">2876984.825</SimpleData>
+		<SimpleData name="AREA">8223.339</SimpleData>
+		<SimpleData name="PERIMETRO">327.532</SimpleData>
+		<SimpleData name="RADIO MENOR">48.061</SimpleData>
+		<SimpleData name="RADIO MAYOR">54.463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9821955709132,11.9340381137839</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.48">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-26c</SimpleData>
+		<SimpleData name="Coordenada X">5111295.401</SimpleData>
+		<SimpleData name="Coordena Y">2877360.213</SimpleData>
+		<SimpleData name="AREA">8639.056</SimpleData>
+		<SimpleData name="PERIMETRO">345.554</SimpleData>
+		<SimpleData name="RADIO MENOR">46.333</SimpleData>
+		<SimpleData name="RADIO MAYOR">59.351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9774955614827,11.9374167276839</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.49">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-23a</SimpleData>
+		<SimpleData name="Coordenada X">5111283.812</SimpleData>
+		<SimpleData name="Coordena Y">2878041.133</SimpleData>
+		<SimpleData name="AREA">7217.906</SimpleData>
+		<SimpleData name="PERIMETRO">324.363</SimpleData>
+		<SimpleData name="RADIO MENOR">40.513</SimpleData>
+		<SimpleData name="RADIO MAYOR">56.711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9775789250225,11.943576441971</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.50">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-29b</SimpleData>
+		<SimpleData name="Coordenada X">5115566.152</SimpleData>
+		<SimpleData name="Coordena Y">2878230.126</SimpleData>
+		<SimpleData name="AREA">3553.443</SimpleData>
+		<SimpleData name="PERIMETRO">223.572</SimpleData>
+		<SimpleData name="RADIO MENOR">28.969</SimpleData>
+		<SimpleData name="RADIO MAYOR">39.045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9382328632367,11.9451401578992</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.51">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-28a</SimpleData>
+		<SimpleData name="Coordenada X">5115464.367</SimpleData>
+		<SimpleData name="Coordena Y">2878181.358</SimpleData>
+		<SimpleData name="AREA">10409.808</SimpleData>
+		<SimpleData name="PERIMETRO">417.717</SimpleData>
+		<SimpleData name="RADIO MENOR">42.876</SimpleData>
+		<SimpleData name="RADIO MAYOR">77.282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9391696205037,11.9447025580193</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.52">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-27a</SimpleData>
+		<SimpleData name="Coordenada X">5115719.486</SimpleData>
+		<SimpleData name="Coordena Y">2878138.993</SimpleData>
+		<SimpleData name="AREA">8921.637</SimpleData>
+		<SimpleData name="PERIMETRO">343.96</SimpleData>
+		<SimpleData name="RADIO MENOR">48.809</SimpleData>
+		<SimpleData name="RADIO MAYOR">58.183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.936827488042,11.9443104926374</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.53">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-29a</SimpleData>
+		<SimpleData name="Coordenada X">5115785.545</SimpleData>
+		<SimpleData name="Coordena Y">2878042.279</SimpleData>
+		<SimpleData name="AREA">14809.202</SimpleData>
+		<SimpleData name="PERIMETRO">445.688</SimpleData>
+		<SimpleData name="RADIO MENOR">58.85</SimpleData>
+		<SimpleData name="RADIO MAYOR">80.101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9362240584349,11.9434333729768</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.54">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-31a</SimpleData>
+		<SimpleData name="Coordenada X">5118521.373</SimpleData>
+		<SimpleData name="Coordena Y">2879248.898</SimpleData>
+		<SimpleData name="AREA">70222.375</SimpleData>
+		<SimpleData name="PERIMETRO">1089.665</SimpleData>
+		<SimpleData name="RADIO MENOR">88.178</SimpleData>
+		<SimpleData name="RADIO MAYOR">253.493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9110482440091,11.9542515024418</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.55">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-32a</SimpleData>
+		<SimpleData name="Coordenada X">5118704.783</SimpleData>
+		<SimpleData name="Coordena Y">2879504.556</SimpleData>
+		<SimpleData name="AREA">7672.699</SimpleData>
+		<SimpleData name="PERIMETRO">368.545</SimpleData>
+		<SimpleData name="RADIO MENOR">28.437</SimpleData>
+		<SimpleData name="RADIO MAYOR">85.884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9093540590412,11.9565574910361</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.56">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-33a</SimpleData>
+		<SimpleData name="Coordenada X">5118834.305</SimpleData>
+		<SimpleData name="Coordena Y">2879809.891</SimpleData>
+		<SimpleData name="AREA">34442.769</SimpleData>
+		<SimpleData name="PERIMETRO">735.467</SimpleData>
+		<SimpleData name="RADIO MENOR">76.316</SimpleData>
+		<SimpleData name="RADIO MAYOR">143.659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9081531002078,11.9593147393002</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.57">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-34a</SimpleData>
+		<SimpleData name="Coordenada X">5119140.634</SimpleData>
+		<SimpleData name="Coordena Y">2879816.929</SimpleData>
+		<SimpleData name="AREA">5485.096</SimpleData>
+		<SimpleData name="PERIMETRO">281.908</SimpleData>
+		<SimpleData name="RADIO MENOR">30.936</SimpleData>
+		<SimpleData name="RADIO MAYOR">56.438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9053386591062,11.9593674436145</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.58">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-35a</SimpleData>
+		<SimpleData name="Coordenada X">5119081.892</SimpleData>
+		<SimpleData name="Coordena Y">2879893.969</SimpleData>
+		<SimpleData name="AREA">20765.834</SimpleData>
+		<SimpleData name="PERIMETRO">575.214</SimpleData>
+		<SimpleData name="RADIO MENOR">54.046</SimpleData>
+		<SimpleData name="RADIO MAYOR">122.303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9058755093403,11.960066402502</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.59">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-36a</SimpleData>
+		<SimpleData name="Coordenada X">5119361.635</SimpleData>
+		<SimpleData name="Coordena Y">2879814.286</SimpleData>
+		<SimpleData name="AREA">65075.821</SimpleData>
+		<SimpleData name="PERIMETRO">1100.561</SimpleData>
+		<SimpleData name="RADIO MENOR">97.497</SimpleData>
+		<SimpleData name="RADIO MAYOR">212.461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9033084633562,11.9593356142279</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.60">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-37a</SimpleData>
+		<SimpleData name="Coordenada X">5119427.486</SimpleData>
+		<SimpleData name="Coordena Y">2880026.084</SimpleData>
+		<SimpleData name="AREA">18027.815</SimpleData>
+		<SimpleData name="PERIMETRO">505.495</SimpleData>
+		<SimpleData name="RADIO MENOR">67.142</SimpleData>
+		<SimpleData name="RADIO MAYOR">85.467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.902695780364,11.9612490406158</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.61">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-38a</SimpleData>
+		<SimpleData name="Coordenada X">5119706.719</SimpleData>
+		<SimpleData name="Coordena Y">2879884.973</SimpleData>
+		<SimpleData name="AREA">16070.194</SimpleData>
+		<SimpleData name="PERIMETRO">548.959</SimpleData>
+		<SimpleData name="RADIO MENOR">44.156</SimpleData>
+		<SimpleData name="RADIO MAYOR">115.846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9001356651918,11.9599626033484</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.62">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-39b</SimpleData>
+		<SimpleData name="Coordenada X">5119736.591</SimpleData>
+		<SimpleData name="Coordena Y">2880138.039</SimpleData>
+		<SimpleData name="AREA">8256.956</SimpleData>
+		<SimpleData name="PERIMETRO">346.009</SimpleData>
+		<SimpleData name="RADIO MENOR">37.754</SimpleData>
+		<SimpleData name="RADIO MAYOR">69.616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8998519841369,11.9622505998002</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.63">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-39a</SimpleData>
+		<SimpleData name="Coordenada X">5119895.347</SimpleData>
+		<SimpleData name="Coordena Y">2880128.574</SimpleData>
+		<SimpleData name="AREA">11249.297</SimpleData>
+		<SimpleData name="PERIMETRO">483.722</SimpleData>
+		<SimpleData name="RADIO MENOR">36.072</SimpleData>
+		<SimpleData name="RADIO MAYOR">99.267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8983938581162,11.9621592660896</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.64">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-44a</SimpleData>
+		<SimpleData name="Coordenada X">5120304.923</SimpleData>
+		<SimpleData name="Coordena Y">2880091.355</SimpleData>
+		<SimpleData name="AREA">6822.181</SimpleData>
+		<SimpleData name="PERIMETRO">323.622</SimpleData>
+		<SimpleData name="RADIO MENOR">38.044</SimpleData>
+		<SimpleData name="RADIO MAYOR">57.08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8946325039216,11.9618078170601</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.65">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-43a</SimpleData>
+		<SimpleData name="Coordenada X">5120480.425</SimpleData>
+		<SimpleData name="Coordena Y">2880119.38</SimpleData>
+		<SimpleData name="AREA">10390.127</SimpleData>
+		<SimpleData name="PERIMETRO">418.359</SimpleData>
+		<SimpleData name="RADIO MENOR">37.672</SimpleData>
+		<SimpleData name="RADIO MAYOR">87.791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.89301916223,11.9620549595358</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.66">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-46a</SimpleData>
+		<SimpleData name="Coordenada X">5120237.04</SimpleData>
+		<SimpleData name="Coordena Y">2880498.948</SimpleData>
+		<SimpleData name="AREA">7887.675</SimpleData>
+		<SimpleData name="PERIMETRO">348.618</SimpleData>
+		<SimpleData name="RADIO MENOR">32.974</SimpleData>
+		<SimpleData name="RADIO MAYOR">76.143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8952411667679,11.9654970884825</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.67">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-45a</SimpleData>
+		<SimpleData name="Coordenada X">5120376.198</SimpleData>
+		<SimpleData name="Coordena Y">2880476.412</SimpleData>
+		<SimpleData name="AREA">7891.215</SimpleData>
+		<SimpleData name="PERIMETRO">330.512</SimpleData>
+		<SimpleData name="RADIO MENOR">43.421</SimpleData>
+		<SimpleData name="RADIO MAYOR">57.849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8939635540905,11.9652882074915</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.68">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-41a</SimpleData>
+		<SimpleData name="Coordenada X">5120694.074</SimpleData>
+		<SimpleData name="Coordena Y">2880025.32</SimpleData>
+		<SimpleData name="AREA">6797.792</SimpleData>
+		<SimpleData name="PERIMETRO">303.337</SimpleData>
+		<SimpleData name="RADIO MENOR">39.948</SimpleData>
+		<SimpleData name="RADIO MAYOR">54.166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8910598670176,11.9611964095809</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.69">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-42a</SimpleData>
+		<SimpleData name="Coordenada X">5121047.608</SimpleData>
+		<SimpleData name="Coordena Y">2880165.13</SimpleData>
+		<SimpleData name="AREA">10948.362</SimpleData>
+		<SimpleData name="PERIMETRO">405.1</SimpleData>
+		<SimpleData name="RADIO MENOR">48.135</SimpleData>
+		<SimpleData name="RADIO MAYOR">72.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8878068471935,11.9624481876464</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.70">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-47a</SimpleData>
+		<SimpleData name="Coordenada X">5121349.757</SimpleData>
+		<SimpleData name="Coordena Y">2880482.802</SimpleData>
+		<SimpleData name="AREA">6695.802</SimpleData>
+		<SimpleData name="PERIMETRO">311.752</SimpleData>
+		<SimpleData name="RADIO MENOR">34.638</SimpleData>
+		<SimpleData name="RADIO MAYOR">61.532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8850192757959,11.9653106170885</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.71">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-48a</SimpleData>
+		<SimpleData name="Coordenada X">5121403.431</SimpleData>
+		<SimpleData name="Coordena Y">2880356.997</SimpleData>
+		<SimpleData name="AREA">3551.485</SimpleData>
+		<SimpleData name="PERIMETRO">221.718</SimpleData>
+		<SimpleData name="RADIO MENOR">28.058</SimpleData>
+		<SimpleData name="RADIO MAYOR">40.291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8845308412631,11.9641707131261</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.72">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-53a</SimpleData>
+		<SimpleData name="Coordenada X">5121524.133</SimpleData>
+		<SimpleData name="Coordena Y">2880422.364</SimpleData>
+		<SimpleData name="AREA">4303.887</SimpleData>
+		<SimpleData name="PERIMETRO">250.439</SimpleData>
+		<SimpleData name="RADIO MENOR">30.041</SimpleData>
+		<SimpleData name="RADIO MAYOR">45.603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.883419537769,11.9647575683125</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.73">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-49a</SimpleData>
+		<SimpleData name="Coordenada X">5121620.85</SimpleData>
+		<SimpleData name="Coordena Y">2880634.687</SimpleData>
+		<SimpleData name="AREA">29150.934</SimpleData>
+		<SimpleData name="PERIMETRO">630.741</SimpleData>
+		<SimpleData name="RADIO MENOR">82.755</SimpleData>
+		<SimpleData name="RADIO MAYOR">112.127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8825231183506,11.9666745568526</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.74">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-51a</SimpleData>
+		<SimpleData name="Coordenada X">5121691.809</SimpleData>
+		<SimpleData name="Coordena Y">2880516.848</SimpleData>
+		<SimpleData name="AREA">546.423</SimpleData>
+		<SimpleData name="PERIMETRO">86.764</SimpleData>
+		<SimpleData name="RADIO MENOR">11.182</SimpleData>
+		<SimpleData name="RADIO MAYOR">15.555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8818756003838,11.9656060715897</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.75">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-52a</SimpleData>
+		<SimpleData name="Coordenada X">5121681.75</SimpleData>
+		<SimpleData name="Coordena Y">2880483.435</SimpleData>
+		<SimpleData name="AREA">420.815</SimpleData>
+		<SimpleData name="PERIMETRO">81.984</SimpleData>
+		<SimpleData name="RADIO MENOR">7.553</SimpleData>
+		<SimpleData name="RADIO MAYOR">17.735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8819692538181,11.9653042092613</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.76">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-37b</SimpleData>
+		<SimpleData name="Coordenada X">5121922.43</SimpleData>
+		<SimpleData name="Coordena Y">2880359.892</SimpleData>
+		<SimpleData name="AREA">260.805</SimpleData>
+		<SimpleData name="PERIMETRO">61.432</SimpleData>
+		<SimpleData name="RADIO MENOR">7.367</SimpleData>
+		<SimpleData name="RADIO MAYOR">11.269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8797627450815,11.9641779100464</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.77">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-36b</SimpleData>
+		<SimpleData name="Coordenada X">5121953.756</SimpleData>
+		<SimpleData name="Coordena Y">2880323.563</SimpleData>
+		<SimpleData name="AREA">1075.491</SimpleData>
+		<SimpleData name="PERIMETRO">138.244</SimpleData>
+		<SimpleData name="RADIO MENOR">12.308</SimpleData>
+		<SimpleData name="RADIO MAYOR">27.814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8794763099238,11.9638481549711</coordinates></Point>
+  </Placemark>
+  <Placemark id="puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno.78">
+	<ExtendedData><SchemaData schemaUrl="#puntos_de_estudio__circulos_de_hadas_atlas_de_hidrogeno">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="CIRCULO DE HADA">AG-35b</SimpleData>
+		<SimpleData name="Coordenada X">5121997.022</SimpleData>
+		<SimpleData name="Coordena Y">2880357.782</SimpleData>
+		<SimpleData name="AREA">1081.126</SimpleData>
+		<SimpleData name="PERIMETRO">143.206</SimpleData>
+		<SimpleData name="RADIO MENOR">10.363</SimpleData>
+		<SimpleData name="RADIO MAYOR">33.208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8790775555728,11.9641560886479</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
